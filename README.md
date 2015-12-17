@@ -4,7 +4,8 @@
 --------------------------------
 Topics
 * Reset
-  * --Hard
-  * --Soft
-  * --Mixed
+  * -- []Hard
+  * -- []Soft
+  * -- []Mixed
 * Rebase
+* Reflog
